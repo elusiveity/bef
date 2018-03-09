@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "1get!"
+date:   2018-03-10 00:29:42 +1000
+categories: jekyll update
+---
+
+This is my new bloggy thing. Shouldn't get hacked now... Fuck you wp.
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
