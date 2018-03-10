@@ -1,4 +1,4 @@
-logo: "<span>JMB</span> # add logo name
+logo: "<span>JMB</span>" # add logo name
 title: Jacobs Space
 description: > # this means to ignore newlines until "baseurl:"
         An awesome little place for me to discuss my multitude of things
