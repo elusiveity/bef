@@ -18,3 +18,5 @@ I'm going to TL;DR this, because I have to run out for dinner in a sec & Im on h
 - My iPad just died for no bloody reason. Don't expect any of my cartoons to get drawn.
 
 Content will be uploaded as I can do it. I have something like 100 articles to go through in Evernote, so I'll have to hold off until I'm in a [whiskey induced coding frenzy](https://xkcd.com/323/).
+
+[![https://imgs.xkcd.com/comics/ballmer_peak.png]](https://xkcd.com/323)
